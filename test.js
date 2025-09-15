@@ -26,3 +26,5 @@ function carousel() {
   setTimeout(carousel, 1000); // Change image every 2 seconds
 }
 
+  const video = document.getElementById('video-div');
+  video.playbackRate = 2; // 1 = normal speed, 2 = double speed, etc.
