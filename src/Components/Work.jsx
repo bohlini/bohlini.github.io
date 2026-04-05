@@ -1,5 +1,5 @@
-import coolerImg from "../assets/nportfolio.png";
-import musicImg from "../assets/nnportfolio.png";
+import coolerImg from "../assets/nportfolio.webp";
+import musicImg from "../assets/nnportfolio.webp";
 
 function Work() {
   return (
@@ -29,7 +29,7 @@ function Work() {
         </a>
       </section>
 
-      <section className="portfolio" style={{ marginTop: "-2em" }}>
+      <section className="portfolio" style={{ marginTop: "-4em" }}>
         <a
           href="https://www.behance.net/gallery/213017585/Graphic-design-soda-cooler-project"
           target="_blank"
