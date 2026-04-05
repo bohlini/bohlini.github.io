@@ -36,7 +36,7 @@ function Work() {
         >
           <h3
             style={{
-              marginBottom: "-10px",
+              marginBottom: "-20px",
               fontWeight: "200",
             }}
           >
