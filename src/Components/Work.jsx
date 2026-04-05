@@ -30,7 +30,7 @@ function Work() {
         </a>
       </section>
 
-      <section className="portfolio">
+      <section className="portfolio" style={{ marginTop: "-2em" }}>
         <a
           href="https://www.behance.net/gallery/213017585/Graphic-design-soda-cooler-project"
           target="_blank"
