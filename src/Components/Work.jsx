@@ -1,6 +1,5 @@
 import coolerImg from "../assets/nportfolio.png";
 import musicImg from "../assets/nnportfolio.png";
-import musicImg2 from "../assets/nnnportfolio.png";
 
 function Work() {
   return (
@@ -37,7 +36,7 @@ function Work() {
         >
           <h3
             style={{
-              marginBottom: "-25px",
+              marginBottom: "-10px",
               fontWeight: "200",
             }}
           >
